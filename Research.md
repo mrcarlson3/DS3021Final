@@ -1,7 +1,7 @@
 Question:
 Is it possible to predict obesity using contextual health factors rather than relying on BMI?
 
-We are asking this question because BMI can be a misleading mesaure of health. By exploring whether contextual health factors (like family history, food intake, physical activity levels, etc.) can better predict obesity, we have the ability to move toward more personalized and accurate health assessments. This could help individuals along with doctors in reducing misclassification of obesity and can lead to better health outcomes. 
+We are asking this question because BMI can be a misleading measure of health. By exploring whether contextual health factors (like family history, food intake, physical activity levels, etc.) can better predict obesity, we have the ability to move toward more personalized and accurate health assessments. This could help individuals along with doctors in reducing misclassification of obesity and can lead to better health outcomes. 
 
 Research:
 Although BMI (calculated by using height and weight) can be a helpful measure for obesity, it does have significant limits. BMI cannot differentiate between body fat and muscle mass, which means it may overestimate fat in athletes and underestimate it in older adults or those who have lost muscle mass. Other indicators—such as high blood pressure, cholesterol levels, physical inactivity, smoking habits, and family history may offer a more accurate and holistic view of a person’s health status.
